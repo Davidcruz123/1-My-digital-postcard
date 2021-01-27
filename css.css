@@ -1,0 +1,72 @@
+
+body{
+    text-align: center;
+}
+
+
+#formato{
+    background-color: gray;
+    width: 500px;
+    height: 350px;
+    /* margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  position: absolute; */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+
+  /* Transform hace que el cuadro se adapte a la pantalla */
+}
+
+#primer-div{
+    background-color: white;
+    width: 250px;
+    height: 50px;
+    margin-top: 10px;
+    /* margin-bottom: 100px;
+    margin-right: 150px; */
+    margin-left: 20px;
+    /* padding-left: 20px; */
+    
+}
+
+#imagen{
+    width: 55px;
+    margin-left: 400px;
+    margin-top: -50px;
+}
+
+
+#div2{
+width: 250px;
+height: 150px;
+background-color: white;
+margin-left: 20px;
+
+}
+#parrafo{
+    text-align: center;
+}
+
+#inputs{
+/* background-color: white; */
+width: 200px;
+height: 150px;
+margin-left: 285px;
+margin-top: -150px;
+
+
+}
+
+#boton{
+    /* background-color: yellow; */
+    position: absolute;
+  top: 85%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) 
+}
